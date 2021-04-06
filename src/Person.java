@@ -36,7 +36,7 @@ public class Person {
 
 	@Override
 	public String toString() {
-		return "Person [age=" + age + ", firstName=" + firstName + ", lastName=" + lastName + "]";
+		return firstName + " " + lastName + " is " + age + " years old.";
 	}
 
 }
