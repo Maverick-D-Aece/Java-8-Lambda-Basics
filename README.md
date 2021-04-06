@@ -15,4 +15,4 @@ The `JAVA DEPENDENCIES` view allows you to manage your dependencies. More detail
 
 ## About
 
-This is just the result of a simple practice work done in spare "work" times while following the Java 8 Lambda Basics Tutorial by Java Brains found [here](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTa9YGfyhyW2CqdtW9RtY-I3)
+This is just the result of a simple practice work done in spare "work" times while following the Java 8 Lambda Basics Tutorial by Java Brains found [here](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTa9YGfyhyW2CqdtW9RtY-I3).
